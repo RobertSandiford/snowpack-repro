@@ -1,5 +1,5 @@
 
-import { SxyComponent } from '~Sxy/SxyComponent.jsx'
+import { SxyComponent } from '../Modules/Sxy/SxyComponent.jsx'
 
 //import { get, post } from './requests.js'
 

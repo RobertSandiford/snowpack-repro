@@ -14,6 +14,7 @@ const nodeAliases = {
 //console.log('node Aliases', nodeAliases)
 
 export default {
+    knownEntrypoints: ['history'],
     mount: {
         public: '/',
         ReactApp: '/dist',

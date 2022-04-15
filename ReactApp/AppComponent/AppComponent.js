@@ -1,7 +1,7 @@
 
 import { SxyComponent } from '~Sxy/SxyComponent.jsx'
 
-import { get, post } from './requests.js'
+//import { get, post } from './requests.js'
 
 export class AppComponent extends SxyComponent {
 
